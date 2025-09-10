@@ -1,6 +1,6 @@
 # Project_HeThongRaoVat
 Phân tích Thiết kế Hệ thống Thông tin Rao vặt (PTTKHT)
-Dự án Phân tích Thiết kế Hệ thống Thông tin Rao vặt là một báo cáo nhóm về phân tích và thiết kế hệ thống quản lý thông tin rao vặt cho doanh nghiệp. Dự án tập trung vào xác định yêu cầu, phân tích quy trình nghiệp vụ, và thiết kế mô hình hệ thống để hỗ trợ quản lý tài khoản, tin rao vặt, gói dịch vụ, và phản hồi khách hàng.
+Dự án Phân tích Hệ thống Thông tin Rao vặt là một báo cáo nhóm về phân tích và thiết kế hệ thống quản lý thông tin rao vặt cho doanh nghiệp. Dự án tập trung vào xác định yêu cầu, phân tích quy trình nghiệp vụ, và thiết kế mô hình hệ thống để hỗ trợ quản lý tài khoản, tin rao vặt, gói dịch vụ, và phản hồi khách hàng.
 
 ## Mô tả dự án
 Báo cáo này bao gồm các phần chính:
